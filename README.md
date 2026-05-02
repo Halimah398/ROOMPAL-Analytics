@@ -28,7 +28,7 @@ Descriptive statistics via Pivot Tables
 Pivot Charts for visualization
 Cross-tabulation by demographics (age, gender, employment, location)
 
-No advanced statistical modeling was used — the focus was on clear, transparent, and reproducible descriptive analysis.
+No advanced statistical modeling was used the focus was on clear, transparent, and reproducible descriptive analysis.
 
 📊 Key Findings
 Demographics & Living Situation
@@ -51,7 +51,7 @@ Lack of trust is the primary reason many avoid housing platforms.
 
 Shared Housing
 
-Widely used but sensitive — major concerns include compatibility, safety, cleanliness, and accountability.
+Widely used but sensitive major concerns include compatibility, safety, cleanliness, and accountability.
 Most roommate connections happen through informal networks.
 
 📈 Deliverables Included
