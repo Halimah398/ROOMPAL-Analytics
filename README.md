@@ -1,5 +1,6 @@
 # ROOMPAL-Analytics
-<img width="1405" height="782" alt="Home Page Dashboard" src="https://github.com/user-attachments/assets/3f2fc3ac-c6a9-46d3-9167-204ec6b127b8" />
+<img width="1405" height="784" alt="Fraud   Trust Dashboard" src="https://github.com/user-attachments/assets/137de5fa-ad71-497d-b3c9-ffbe54148975" />
+
 An in-depth descriptive data analysis of housing and roommate experiences among Nigerians, focusing on shared living, rental challenges, housing search stress, and trust in digital housing platforms.
 
 📋 Project Overview
